@@ -5,7 +5,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_000_M",
         "HashNameFemale": "MP_Airraces_Tattoo_000_F",
         "Zone": "ZONE_TORSO",
-        "Price": 13205
+        "Price": 1320
     },
     {
         "Collection": "mpairraces_overlays",
@@ -13,7 +13,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_001_M",
         "HashNameFemale": "MP_Airraces_Tattoo_001_F",
         "Zone": "ZONE_TORSO",
-        "Price": 18105
+        "Price": 1810
     },
     {
         "Collection": "mpairraces_overlays",
@@ -21,7 +21,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_002_M",
         "HashNameFemale": "MP_Airraces_Tattoo_002_F",
         "Zone": "ZONE_TORSO",
-        "Price": 16485
+        "Price": 1648
     },
     {
         "Collection": "mpairraces_overlays",
@@ -29,7 +29,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_003_M",
         "HashNameFemale": "MP_Airraces_Tattoo_003_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 11985
+        "Price": 1198
     },
     {
         "Collection": "mpairraces_overlays",
@@ -37,7 +37,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_004_M",
         "HashNameFemale": "MP_Airraces_Tattoo_004_F",
         "Zone": "ZONE_TORSO",
-        "Price": 10390
+        "Price": 1039
     },
     {
         "Collection": "mpairraces_overlays",
@@ -45,7 +45,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_005_M",
         "HashNameFemale": "MP_Airraces_Tattoo_005_F",
         "Zone": "ZONE_TORSO",
-        "Price": 15270
+        "Price": 1527
     },
     {
         "Collection": "mpairraces_overlays",
@@ -53,7 +53,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_006_M",
         "HashNameFemale": "MP_Airraces_Tattoo_006_F",
         "Zone": "ZONE_TORSO",
-        "Price": 12520
+        "Price": 1252
     },
     {
         "Collection": "mpairraces_overlays",
@@ -61,7 +61,7 @@
         "HashNameMale": "MP_Airraces_Tattoo_007_M",
         "HashNameFemale": "MP_Airraces_Tattoo_007_F",
         "Zone": "ZONE_TORSO",
-        "Price": 13925
+        "Price": 1392
     },
     {
         "Collection": "mpbeach_overlays",
@@ -69,7 +69,7 @@
         "HashNameMale": "MP_Bea_M_Back_000",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 7250
+        "Price": 725
     },
     {
         "Collection": "mpbeach_overlays",
@@ -77,7 +77,7 @@
         "HashNameMale": "MP_Bea_M_Chest_000",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 5800
+        "Price": 580
     },
     {
         "Collection": "mpbeach_overlays",
@@ -85,7 +85,7 @@
         "HashNameMale": "MP_Bea_M_Chest_001",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 5900
+        "Price": 590
     },
     {
         "Collection": "mpbeach_overlays",
@@ -93,7 +93,7 @@
         "HashNameMale": "MP_Bea_M_Head_000",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 12000
+        "Price": 1200
     },
     {
         "Collection": "mpbeach_overlays",
@@ -101,7 +101,7 @@
         "HashNameMale": "MP_Bea_M_Head_001",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 1450
+        "Price": 145
     },
     {
         "Collection": "mpbeach_overlays",
@@ -109,7 +109,7 @@
         "HashNameMale": "MP_Bea_M_Head_002",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 1850
+        "Price": 185
     },
     {
         "Collection": "mpbeach_overlays",
@@ -117,7 +117,7 @@
         "HashNameMale": "MP_Bea_M_Lleg_000",
         "HashNameFemale": "",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 4450
+        "Price": 445
     },
     {
         "Collection": "mpbeach_overlays",
@@ -125,7 +125,7 @@
         "HashNameMale": "MP_Bea_M_Rleg_000",
         "HashNameFemale": "",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 6500
+        "Price": 650
     },
     {
         "Collection": "mpbeach_overlays",
@@ -133,7 +133,7 @@
         "HashNameMale": "MP_Bea_M_RArm_000",
         "HashNameFemale": "",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 6200
+        "Price": 620
     },
     {
         "Collection": "mpbeach_overlays",
@@ -141,7 +141,7 @@
         "HashNameMale": "MP_Bea_M_LArm_000",
         "HashNameFemale": "",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 4800
+        "Price": 480
     },
     {
         "Collection": "mpbeach_overlays",
@@ -149,7 +149,7 @@
         "HashNameMale": "MP_Bea_M_LArm_001",
         "HashNameFemale": "",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 6600
+        "Price": 660
     },
     {
         "Collection": "mpbeach_overlays",
@@ -157,7 +157,7 @@
         "HashNameMale": "MP_Bea_M_Neck_000",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 1650
+        "Price": 165
     },
     {
         "Collection": "mpbeach_overlays",
@@ -165,7 +165,7 @@
         "HashNameMale": "MP_Bea_M_Neck_001",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 2250
+        "Price": 225
     },
     {
         "Collection": "mpbeach_overlays",
@@ -173,7 +173,7 @@
         "HashNameMale": "MP_Bea_M_RArm_001",
         "HashNameFemale": "",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 7000
+        "Price": 700
     },
     {
         "Collection": "mpbeach_overlays",
@@ -181,7 +181,7 @@
         "HashNameMale": "MP_Bea_M_Stom_000",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 3100
+        "Price": 310
     },
     {
         "Collection": "mpbeach_overlays",
@@ -189,7 +189,7 @@
         "HashNameMale": "MP_Bea_M_Stom_001",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 5500
+        "Price": 550
     },
     {
         "Collection": "mpbeach_overlays",
@@ -197,7 +197,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Back_000",
         "Zone": "ZONE_TORSO",
-        "Price": 5500
+        "Price": 550
     },
     {
         "Collection": "mpbeach_overlays",
@@ -205,7 +205,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Back_001",
         "Zone": "ZONE_TORSO",
-        "Price": 6900
+        "Price": 690
     },
     {
         "Collection": "mpbeach_overlays",
@@ -213,7 +213,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Back_002",
         "Zone": "ZONE_TORSO",
-        "Price": 2500
+        "Price": 250
     },
     {
         "Collection": "mpbeach_overlays",
@@ -221,7 +221,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Chest_000",
         "Zone": "ZONE_TORSO",
-        "Price": 2500
+        "Price": 250
     },
     {
         "Collection": "mpbeach_overlays",
@@ -229,7 +229,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Chest_001",
         "Zone": "ZONE_TORSO",
-        "Price": 2500
+        "Price": 250
     },
     {
         "Collection": "mpbeach_overlays",
@@ -237,7 +237,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Chest_002",
         "Zone": "ZONE_TORSO",
-        "Price": 8500
+        "Price": 850
     },
     {
         "Collection": "mpbeach_overlays",
@@ -245,7 +245,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_RSide_000",
         "Zone": "ZONE_TORSO",
-        "Price": 6850
+        "Price": 685
     },
     {
         "Collection": "mpbeach_overlays",
@@ -253,7 +253,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_RLeg_000",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 2950
+        "Price": 295
     },
     {
         "Collection": "mpbeach_overlays",
@@ -261,7 +261,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_RArm_001",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 3700
+        "Price": 370
     },
     {
         "Collection": "mpbeach_overlays",
@@ -269,7 +269,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Neck_000",
         "Zone": "ZONE_HEAD",
-        "Price": 1700
+        "Price": 170
     },
     {
         "Collection": "mpbeach_overlays",
@@ -277,7 +277,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Should_000",
         "Zone": "ZONE_TORSO",
-        "Price": 5100
+        "Price": 510
     },
     {
         "Collection": "mpbeach_overlays",
@@ -285,7 +285,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Should_001",
         "Zone": "ZONE_TORSO",
-        "Price": 5250
+        "Price": 525
     },
     {
         "Collection": "mpbeach_overlays",
@@ -293,7 +293,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Stom_000",
         "Zone": "ZONE_TORSO",
-        "Price": 2100
+        "Price": 210
     },
     {
         "Collection": "mpbeach_overlays",
@@ -301,7 +301,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Stom_001",
         "Zone": "ZONE_TORSO",
-        "Price": 2650
+        "Price": 265
     },
     {
         "Collection": "mpbeach_overlays",
@@ -309,7 +309,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_Stom_002",
         "Zone": "ZONE_TORSO",
-        "Price": 1900
+        "Price": 190
     },
     {
         "Collection": "mpbeach_overlays",
@@ -317,7 +317,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_LArm_000",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 3500
+        "Price": 350
     },
     {
         "Collection": "mpbeach_overlays",
@@ -325,7 +325,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Bea_F_LArm_001",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 5250
+        "Price": 525
     },
     {
         "Collection": "mpbiker_overlays",
@@ -333,7 +333,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_000_M",
         "HashNameFemale": "MP_MP_Biker_Tat_000_F",
         "Zone": "ZONE_TORSO",
-        "Price": 6720
+        "Price": 672
     },
     {
         "Collection": "mpbiker_overlays",
@@ -341,7 +341,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_001_M",
         "HashNameFemale": "MP_MP_Biker_Tat_001_F",
         "Zone": "ZONE_TORSO",
-        "Price": 10800
+        "Price": 1080
     },
     {
         "Collection": "mpbiker_overlays",
@@ -349,7 +349,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_002_M",
         "HashNameFemale": "MP_MP_Biker_Tat_002_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 16820
+        "Price": 1682
     },
     {
         "Collection": "mpbiker_overlays",
@@ -357,7 +357,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_003_M",
         "HashNameFemale": "MP_MP_Biker_Tat_003_F",
         "Zone": "ZONE_TORSO",
-        "Price": 10850
+        "Price": 1085
     },
     {
         "Collection": "mpbiker_overlays",
@@ -365,7 +365,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_004_M",
         "HashNameFemale": "MP_MP_Biker_Tat_004_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 17950
+        "Price": 1795
     },
     {
         "Collection": "mpbiker_overlays",
@@ -373,7 +373,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_005_M",
         "HashNameFemale": "MP_MP_Biker_Tat_005_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9230
+        "Price": 923
     },
     {
         "Collection": "mpbiker_overlays",
@@ -381,7 +381,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_006_M",
         "HashNameFemale": "MP_MP_Biker_Tat_006_F",
         "Zone": "ZONE_TORSO",
-        "Price": 10400
+        "Price": 1040
     },
     {
         "Collection": "mpbiker_overlays",
@@ -389,7 +389,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_007_M",
         "HashNameFemale": "MP_MP_Biker_Tat_007_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 5100
+        "Price": 510
     },
     {
         "Collection": "mpbiker_overlays",
@@ -397,7 +397,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_008_M",
         "HashNameFemale": "MP_MP_Biker_Tat_008_F",
         "Zone": "ZONE_TORSO",
-        "Price": 8785
+        "Price": 878
     },
     {
         "Collection": "mpbiker_overlays",
@@ -405,7 +405,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_009_M",
         "HashNameFemale": "MP_MP_Biker_Tat_009_F",
         "Zone": "ZONE_HEAD",
-        "Price": 6350
+        "Price": 635
     },
     {
         "Collection": "mpbiker_overlays",
@@ -413,7 +413,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_010_M",
         "HashNameFemale": "MP_MP_Biker_Tat_010_F",
         "Zone": "ZONE_TORSO",
-        "Price": 11350
+        "Price": 1135
     },
     {
         "Collection": "mpbiker_overlays",
@@ -421,7 +421,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_011_M",
         "HashNameFemale": "MP_MP_Biker_Tat_011_F",
         "Zone": "ZONE_TORSO",
-        "Price": 12350
+        "Price": 1235
     },
     {
         "Collection": "mpbiker_overlays",
@@ -429,7 +429,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_012_M",
         "HashNameFemale": "MP_MP_Biker_Tat_012_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 4985
+        "Price": 498
     },
     {
         "Collection": "mpbiker_overlays",
@@ -437,7 +437,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_013_M",
         "HashNameFemale": "MP_MP_Biker_Tat_013_F",
         "Zone": "ZONE_TORSO",
-        "Price": 11140
+        "Price": 1114
     },
     {
         "Collection": "mpbiker_overlays",
@@ -445,7 +445,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_014_M",
         "HashNameFemale": "MP_MP_Biker_Tat_014_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 8300
+        "Price": 830
     },
     {
         "Collection": "mpbiker_overlays",
@@ -453,7 +453,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_015_M",
         "HashNameFemale": "MP_MP_Biker_Tat_015_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 8975
+        "Price": 897
     },
     {
         "Collection": "mpbiker_overlays",
@@ -461,7 +461,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_016_M",
         "HashNameFemale": "MP_MP_Biker_Tat_016_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 9000
+        "Price": 900
     },
     {
         "Collection": "mpbiker_overlays",
@@ -469,7 +469,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_017_M",
         "HashNameFemale": "MP_MP_Biker_Tat_017_F",
         "Zone": "ZONE_TORSO",
-        "Price": 15650
+        "Price": 1565
     },
     {
         "Collection": "mpbiker_overlays",
@@ -477,7 +477,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_018_M",
         "HashNameFemale": "MP_MP_Biker_Tat_018_F",
         "Zone": "ZONE_TORSO",
-        "Price": 7650
+        "Price": 765
     },
     {
         "Collection": "mpbiker_overlays",
@@ -485,7 +485,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_019_M",
         "HashNameFemale": "MP_MP_Biker_Tat_019_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9900
+        "Price": 990
     },
     {
         "Collection": "mpbiker_overlays",
@@ -493,7 +493,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_020_M",
         "HashNameFemale": "MP_MP_Biker_Tat_020_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 9745
+        "Price": 974
     },
     {
         "Collection": "mpbiker_overlays",
@@ -501,7 +501,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_021_M",
         "HashNameFemale": "MP_MP_Biker_Tat_021_F",
         "Zone": "ZONE_TORSO",
-        "Price": 13700
+        "Price": 1370
     },
     {
         "Collection": "mpbiker_overlays",
@@ -509,7 +509,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_022_M",
         "HashNameFemale": "MP_MP_Biker_Tat_022_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 9385
+        "Price": 938
     },
     {
         "Collection": "mpbiker_overlays",
@@ -517,7 +517,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_023_M",
         "HashNameFemale": "MP_MP_Biker_Tat_023_F",
         "Zone": "ZONE_TORSO",
-        "Price": 10000
+        "Price": 1000
     },
     {
         "Collection": "mpbiker_overlays",
@@ -525,7 +525,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_024_M",
         "HashNameFemale": "MP_MP_Biker_Tat_024_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 15320
+        "Price": 1532
     },
     {
         "Collection": "mpbiker_overlays",
@@ -533,7 +533,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_025_M",
         "HashNameFemale": "MP_MP_Biker_Tat_025_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 12950
+        "Price": 1295
     },
     {
         "Collection": "mpbiker_overlays",
@@ -541,7 +541,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_026_M",
         "HashNameFemale": "MP_MP_Biker_Tat_026_F",
         "Zone": "ZONE_TORSO",
-        "Price": 11000
+        "Price": 1100
     },
     {
         "Collection": "mpbiker_overlays",
@@ -549,7 +549,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_027_M",
         "HashNameFemale": "MP_MP_Biker_Tat_027_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 6960
+        "Price": 696
     },
     {
         "Collection": "mpbiker_overlays",
@@ -557,7 +557,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_028_M",
         "HashNameFemale": "MP_MP_Biker_Tat_028_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 14520
+        "Price": 1452
     },
     {
         "Collection": "mpbiker_overlays",
@@ -565,7 +565,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_029_M",
         "HashNameFemale": "MP_MP_Biker_Tat_029_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9630
+        "Price": 963
     },
     {
         "Collection": "mpbiker_overlays",
@@ -573,7 +573,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_030_M",
         "HashNameFemale": "MP_MP_Biker_Tat_030_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9810
+        "Price": 981
     },
     {
         "Collection": "mpbiker_overlays",
@@ -581,7 +581,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_031_M",
         "HashNameFemale": "MP_MP_Biker_Tat_031_F",
         "Zone": "ZONE_TORSO",
-        "Price": 8600
+        "Price": 860
     },
     {
         "Collection": "mpbiker_overlays",
@@ -589,7 +589,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_032_M",
         "HashNameFemale": "MP_MP_Biker_Tat_032_F",
         "Zone": "ZONE_TORSO",
-        "Price": 7655
+        "Price": 765
     },
     {
         "Collection": "mpbiker_overlays",
@@ -597,7 +597,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_033_M",
         "HashNameFemale": "MP_MP_Biker_Tat_033_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4385
+        "Price": 438
     },
     {
         "Collection": "mpbiker_overlays",
@@ -605,7 +605,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_034_M",
         "HashNameFemale": "MP_MP_Biker_Tat_034_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9975
+        "Price": 997
     },
     {
         "Collection": "mpbiker_overlays",
@@ -613,7 +613,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_035_M",
         "HashNameFemale": "MP_MP_Biker_Tat_035_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 5780
+        "Price": 578
     },
     {
         "Collection": "mpbiker_overlays",
@@ -621,7 +621,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_036_M",
         "HashNameFemale": "MP_MP_Biker_Tat_036_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 9300
+        "Price": 930
     },
     {
         "Collection": "mpbiker_overlays",
@@ -629,7 +629,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_037_M",
         "HashNameFemale": "MP_MP_Biker_Tat_037_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 12495
+        "Price": 1249
     },
     {
         "Collection": "mpbiker_overlays",
@@ -637,7 +637,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_038_M",
         "HashNameFemale": "MP_MP_Biker_Tat_038_F",
         "Zone": "ZONE_HEAD",
-        "Price": 3900
+        "Price": 390
     },
     {
         "Collection": "mpbiker_overlays",
@@ -645,7 +645,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_039_M",
         "HashNameFemale": "MP_MP_Biker_Tat_039_F",
         "Zone": "ZONE_TORSO",
-        "Price": 10950
+        "Price": 1095
     },
     {
         "Collection": "mpbiker_overlays",
@@ -653,7 +653,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_040_M",
         "HashNameFemale": "MP_MP_Biker_Tat_040_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 13620
+        "Price": 1362
     },
     {
         "Collection": "mpbiker_overlays",
@@ -661,7 +661,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_041_M",
         "HashNameFemale": "MP_MP_Biker_Tat_041_F",
         "Zone": "ZONE_TORSO",
-        "Price": 8320
+        "Price": 832
     },
     {
         "Collection": "mpbiker_overlays",
@@ -669,7 +669,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_042_M",
         "HashNameFemale": "MP_MP_Biker_Tat_042_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 7865
+        "Price": 786
     },
     {
         "Collection": "mpbiker_overlays",
@@ -677,7 +677,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_043_M",
         "HashNameFemale": "MP_MP_Biker_Tat_043_F",
         "Zone": "ZONE_TORSO",
-        "Price": 6850
+        "Price": 685
     },
     {
         "Collection": "mpbiker_overlays",
@@ -685,7 +685,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_044_M",
         "HashNameFemale": "MP_MP_Biker_Tat_044_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 11900
+        "Price": 1190
     },
     {
         "Collection": "mpbiker_overlays",
@@ -693,7 +693,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_045_M",
         "HashNameFemale": "MP_MP_Biker_Tat_045_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 6320
+        "Price": 632
     },
     {
         "Collection": "mpbiker_overlays",
@@ -701,7 +701,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_046_M",
         "HashNameFemale": "MP_MP_Biker_Tat_046_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4985
+        "Price": 498
     },
     {
         "Collection": "mpbiker_overlays",
@@ -709,7 +709,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_047_M",
         "HashNameFemale": "MP_MP_Biker_Tat_047_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 13500
+        "Price": 1350
     },
     {
         "Collection": "mpbiker_overlays",
@@ -717,7 +717,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_048_M",
         "HashNameFemale": "MP_MP_Biker_Tat_048_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 8930
+        "Price": 893
     },
     {
         "Collection": "mpbiker_overlays",
@@ -725,7 +725,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_049_M",
         "HashNameFemale": "MP_MP_Biker_Tat_049_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 8790
+        "Price": 879
     },
     {
         "Collection": "mpbiker_overlays",
@@ -733,7 +733,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_050_M",
         "HashNameFemale": "MP_MP_Biker_Tat_050_F",
         "Zone": "ZONE_TORSO",
-        "Price": 8720
+        "Price": 872
     },
     {
         "Collection": "mpbiker_overlays",
@@ -741,7 +741,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_051_M",
         "HashNameFemale": "MP_MP_Biker_Tat_051_F",
         "Zone": "ZONE_HEAD",
-        "Price": 4125
+        "Price": 412
     },
     {
         "Collection": "mpbiker_overlays",
@@ -749,7 +749,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_052_M",
         "HashNameFemale": "MP_MP_Biker_Tat_052_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9135
+        "Price": 913
     },
     {
         "Collection": "mpbiker_overlays",
@@ -757,7 +757,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_053_M",
         "HashNameFemale": "MP_MP_Biker_Tat_053_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 8400
+        "Price": 840
     },
     {
         "Collection": "mpbiker_overlays",
@@ -765,7 +765,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_054_M",
         "HashNameFemale": "MP_MP_Biker_Tat_054_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 10450
+        "Price": 1045
     },
     {
         "Collection": "mpbiker_overlays",
@@ -773,7 +773,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_055_M",
         "HashNameFemale": "MP_MP_Biker_Tat_055_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 10995
+        "Price": 1099
     },
     {
         "Collection": "mpbiker_overlays",
@@ -781,7 +781,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_056_M",
         "HashNameFemale": "MP_MP_Biker_Tat_056_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 14960
+        "Price": 1496
     },
     {
         "Collection": "mpbiker_overlays",
@@ -789,7 +789,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_057_M",
         "HashNameFemale": "MP_MP_Biker_Tat_057_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 13865
+        "Price": 1386
     },
     {
         "Collection": "mpbiker_overlays",
@@ -797,7 +797,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_058_M",
         "HashNameFemale": "MP_MP_Biker_Tat_058_F",
         "Zone": "ZONE_TORSO",
-        "Price": 7985
+        "Price": 798
     },
     {
         "Collection": "mpbiker_overlays",
@@ -805,7 +805,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_059_M",
         "HashNameFemale": "MP_MP_Biker_Tat_059_F",
         "Zone": "ZONE_TORSO",
-        "Price": 6395
+        "Price": 639
     },
     {
         "Collection": "mpbiker_overlays",
@@ -813,7 +813,7 @@
         "HashNameMale": "MP_MP_Biker_Tat_060_M",
         "HashNameFemale": "MP_MP_Biker_Tat_060_F",
         "Zone": "ZONE_TORSO",
-        "Price": 7105
+        "Price": 710
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -821,7 +821,7 @@
         "HashNameMale": "MP_Buis_M_Neck_000",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 5000
+        "Price": 500
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -829,7 +829,7 @@
         "HashNameMale": "MP_Buis_M_Neck_001",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 1600
+        "Price": 160
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -837,7 +837,7 @@
         "HashNameMale": "MP_Buis_M_Neck_002",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 1750
+        "Price": 175
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -845,7 +845,7 @@
         "HashNameMale": "MP_Buis_M_Neck_003",
         "HashNameFemale": "",
         "Zone": "ZONE_HEAD",
-        "Price": 6900
+        "Price": 690
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -853,7 +853,7 @@
         "HashNameMale": "MP_Buis_M_LeftArm_000",
         "HashNameFemale": "",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 3500
+        "Price": 350
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -861,7 +861,7 @@
         "HashNameMale": "MP_Buis_M_LeftArm_001",
         "HashNameFemale": "",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 7300
+        "Price": 730
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -869,7 +869,7 @@
         "HashNameMale": "MP_Buis_M_RightArm_000",
         "HashNameFemale": "",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4800
+        "Price": 480
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -877,7 +877,7 @@
         "HashNameMale": "MP_Buis_M_RightArm_001",
         "HashNameFemale": "",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 1500
+        "Price": 150
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -885,7 +885,7 @@
         "HashNameMale": "MP_Buis_M_Stomach_000",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 6400
+        "Price": 640
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -893,7 +893,7 @@
         "HashNameMale": "MP_Buis_M_Chest_000",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 3250
+        "Price": 325
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -901,7 +901,7 @@
         "HashNameMale": "MP_Buis_M_Chest_001",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 3500
+        "Price": 350
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -909,7 +909,7 @@
         "HashNameMale": "MP_Buis_M_Back_000",
         "HashNameFemale": "",
         "Zone": "ZONE_TORSO",
-        "Price": 5500
+        "Price": 550
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -917,7 +917,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Chest_000",
         "Zone": "ZONE_TORSO",
-        "Price": 7000
+        "Price": 700
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -925,7 +925,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Chest_001",
         "Zone": "ZONE_TORSO",
-        "Price": 7200
+        "Price": 720
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -933,7 +933,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Chest_002",
         "Zone": "ZONE_TORSO",
-        "Price": 1600
+        "Price": 160
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -941,7 +941,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Stom_000",
         "Zone": "ZONE_TORSO",
-        "Price": 6800
+        "Price": 680
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -949,7 +949,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Stom_001",
         "Zone": "ZONE_TORSO",
-        "Price": 1800
+        "Price": 180
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -957,7 +957,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Stom_002",
         "Zone": "ZONE_TORSO",
-        "Price": 1500
+        "Price": 150
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -965,7 +965,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Back_000",
         "Zone": "ZONE_TORSO",
-        "Price": 4200
+        "Price": 420
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -973,7 +973,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Back_001",
         "Zone": "ZONE_TORSO",
-        "Price": 4000
+        "Price": 400
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -981,7 +981,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Neck_000",
         "Zone": "ZONE_HEAD",
-        "Price": 1900
+        "Price": 190
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -989,7 +989,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_Neck_001",
         "Zone": "ZONE_HEAD",
-        "Price": 2500
+        "Price": 250
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -997,7 +997,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_RArm_000",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4900
+        "Price": 490
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -1005,7 +1005,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_LArm_000",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 5500
+        "Price": 550
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -1013,7 +1013,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_LLeg_000",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 4850
+        "Price": 485
     },
     {
         "Collection": "mpbusiness_overlays",
@@ -1021,7 +1021,7 @@
         "HashNameMale": "",
         "HashNameFemale": "MP_Buis_F_RLeg_000",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 4500
+        "Price": 450
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1029,7 +1029,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_000_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_000_F",
         "Zone": "ZONE_TORSO",
-        "Price": 13500
+        "Price": 1350
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1037,7 +1037,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_001_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_001_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 17260
+        "Price": 1726
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1045,7 +1045,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_002_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_002_F",
         "Zone": "ZONE_TORSO",
-        "Price": 18360
+        "Price": 1836
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1053,7 +1053,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_003_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_003_F",
         "Zone": "ZONE_TORSO",
-        "Price": 17780
+        "Price": 1778
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1061,7 +1061,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_004_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_004_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 20400
+        "Price": 2040
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1069,7 +1069,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_005_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_005_F",
         "Zone": "ZONE_TORSO",
-        "Price": 52660
+        "Price": 5266
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1077,7 +1077,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_006_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_006_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 22030
+        "Price": 2203
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1085,7 +1085,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_007_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_007_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 19670
+        "Price": 1967
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1093,7 +1093,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_008_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_008_F",
         "Zone": "ZONE_TORSO",
-        "Price": 36800
+        "Price": 3680
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1101,7 +1101,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_009_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_009_F",
         "Zone": "ZONE_TORSO",
-        "Price": 23870
+        "Price": 2387
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1109,7 +1109,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_010_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_010_F",
         "Zone": "ZONE_TORSO",
-        "Price": 49540
+        "Price": 4954
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1117,7 +1117,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_011_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_011_F",
         "Zone": "ZONE_TORSO",
-        "Price": 53950
+        "Price": 5395
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1125,7 +1125,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_012_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_012_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 21190
+        "Price": 2119
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1133,7 +1133,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_013_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_013_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 22930
+        "Price": 2293
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1141,7 +1141,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_014_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_014_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 11860
+        "Price": 1186
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1149,7 +1149,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_015_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_015_F",
         "Zone": "ZONE_TORSO",
-        "Price": 50460
+        "Price": 5046
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1157,7 +1157,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_016_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_016_F",
         "Zone": "ZONE_TORSO",
-        "Price": 51500
+        "Price": 5150
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1165,7 +1165,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_017_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_017_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 32080
+        "Price": 3208
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1173,7 +1173,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_018_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_018_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 34410
+        "Price": 3441
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1181,7 +1181,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_019_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_019_F",
         "Zone": "ZONE_TORSO",
-        "Price": 16780
+        "Price": 1678
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1189,7 +1189,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_020_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_020_F",
         "Zone": "ZONE_TORSO",
-        "Price": 46890
+        "Price": 4689
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1197,7 +1197,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_021_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_021_F",
         "Zone": "ZONE_TORSO",
-        "Price": 24870
+        "Price": 2487
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1205,7 +1205,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_022_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_022_F",
         "Zone": "ZONE_TORSO",
-        "Price": 29970
+        "Price": 2997
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1213,7 +1213,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_023_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_023_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 39240
+        "Price": 3924
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1221,7 +1221,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_024_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_024_F",
         "Zone": "ZONE_TORSO",
-        "Price": 41740
+        "Price": 4174
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1229,7 +1229,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_025_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_025_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 27560
+        "Price": 2756
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1237,7 +1237,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_026_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_026_F",
         "Zone": "ZONE_TORSO",
-        "Price": 18980
+        "Price": 1898
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1245,7 +1245,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_027_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_027_F",
         "Zone": "ZONE_TORSO",
-        "Price": 44280
+        "Price": 4428
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1253,7 +1253,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_028_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_028_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 15150
+        "Price": 1515
     },
     {
         "Collection": "mpchristmas2017_overlays",
@@ -1261,7 +1261,7 @@
         "HashNameMale": "MP_Christmas2017_Tattoo_029_M",
         "HashNameFemale": "MP_Christmas2017_Tattoo_029_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 25920
+        "Price": 2592
     },
     {
         "Collection": "mpchristmas2018_overlays",
@@ -1277,7 +1277,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_000",
         "HashNameFemale": "MP_Xmas2_F_Tat_000",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 5950
+        "Price": 595
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1285,7 +1285,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_001",
         "HashNameFemale": "MP_Xmas2_F_Tat_001",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 4650
+        "Price": 465
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1293,7 +1293,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_002",
         "HashNameFemale": "MP_Xmas2_F_Tat_002",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 6350
+        "Price": 635
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1301,7 +1301,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_003",
         "HashNameFemale": "MP_Xmas2_F_Tat_003",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 8450
+        "Price": 845
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1309,7 +1309,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_004",
         "HashNameFemale": "MP_Xmas2_F_Tat_004",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 13250
+        "Price": 1325
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1317,7 +1317,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_005",
         "HashNameFemale": "MP_Xmas2_F_Tat_005",
         "Zone": "ZONE_TORSO",
-        "Price": 8750
+        "Price": 875
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1325,7 +1325,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_006",
         "HashNameFemale": "MP_Xmas2_F_Tat_006",
         "Zone": "ZONE_TORSO",
-        "Price": 14500
+        "Price": 1450
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1333,7 +1333,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_007",
         "HashNameFemale": "MP_Xmas2_F_Tat_007",
         "Zone": "ZONE_HEAD",
-        "Price": 3950
+        "Price": 395
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1341,7 +1341,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_008",
         "HashNameFemale": "MP_Xmas2_F_Tat_008",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4300
+        "Price": 430
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1349,7 +1349,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_009",
         "HashNameFemale": "MP_Xmas2_F_Tat_009",
         "Zone": "ZONE_TORSO",
-        "Price": 7800
+        "Price": 780
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1357,7 +1357,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_010",
         "HashNameFemale": "MP_Xmas2_F_Tat_010",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 6200
+        "Price": 620
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1365,7 +1365,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_011",
         "HashNameFemale": "MP_Xmas2_F_Tat_011",
         "Zone": "ZONE_TORSO",
-        "Price": 6850
+        "Price": 685
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1373,7 +1373,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_012",
         "HashNameFemale": "MP_Xmas2_F_Tat_012",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 8250
+        "Price": 825
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1381,7 +1381,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_013",
         "HashNameFemale": "MP_Xmas2_F_Tat_013",
         "Zone": "ZONE_TORSO",
-        "Price": 7900
+        "Price": 790
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1389,7 +1389,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_014",
         "HashNameFemale": "MP_Xmas2_F_Tat_014",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 10500
+        "Price": 1050
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1397,7 +1397,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_015",
         "HashNameFemale": "MP_Xmas2_F_Tat_015",
         "Zone": "ZONE_TORSO",
-        "Price": 11000
+        "Price": 1100
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1405,7 +1405,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_016",
         "HashNameFemale": "MP_Xmas2_F_Tat_016",
         "Zone": "ZONE_TORSO",
-        "Price": 3150
+        "Price": 315
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1413,7 +1413,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_017",
         "HashNameFemale": "MP_Xmas2_F_Tat_017",
         "Zone": "ZONE_TORSO",
-        "Price": 6350
+        "Price": 635
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1421,7 +1421,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_018",
         "HashNameFemale": "MP_Xmas2_F_Tat_018",
         "Zone": "ZONE_TORSO",
-        "Price": 4300
+        "Price": 430
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1429,7 +1429,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_019",
         "HashNameFemale": "MP_Xmas2_F_Tat_019",
         "Zone": "ZONE_TORSO",
-        "Price": 7500
+        "Price": 750
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1437,7 +1437,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_020",
         "HashNameFemale": "MP_Xmas2_F_Tat_020",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 2500
+        "Price": 250
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1445,7 +1445,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_021",
         "HashNameFemale": "MP_Xmas2_F_Tat_021",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 3750
+        "Price": 375
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1453,7 +1453,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_022",
         "HashNameFemale": "MP_Xmas2_F_Tat_022",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 3800
+        "Price": 380
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1461,7 +1461,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_023",
         "HashNameFemale": "MP_Xmas2_F_Tat_023",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 5100
+        "Price": 510
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1469,7 +1469,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_024",
         "HashNameFemale": "MP_Xmas2_F_Tat_024",
         "Zone": "ZONE_HEAD",
-        "Price": 2100
+        "Price": 210
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1477,7 +1477,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_025",
         "HashNameFemale": "MP_Xmas2_F_Tat_025",
         "Zone": "ZONE_HEAD",
-        "Price": 4600
+        "Price": 460
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1485,7 +1485,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_026",
         "HashNameFemale": "MP_Xmas2_F_Tat_026",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 1300
+        "Price": 130
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1493,7 +1493,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_027",
         "HashNameFemale": "MP_Xmas2_F_Tat_027",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 2200
+        "Price": 220
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1501,7 +1501,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_028",
         "HashNameFemale": "MP_Xmas2_F_Tat_028",
         "Zone": "ZONE_TORSO",
-        "Price": 5700
+        "Price": 570
     },
     {
         "Collection": "mpchristmas2_overlays",
@@ -1509,7 +1509,7 @@
         "HashNameMale": "MP_Xmas2_M_Tat_029",
         "HashNameFemale": "MP_Xmas2_F_Tat_029",
         "Zone": "ZONE_HEAD",
-        "Price": 3150
+        "Price": 315
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1517,7 +1517,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_000_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_000_F",
         "Zone": "ZONE_TORSO",
-        "Price": 16985
+        "Price": 1698
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1525,7 +1525,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_001_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_001_F",
         "Zone": "ZONE_TORSO",
-        "Price": 19355
+        "Price": 1935
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1533,7 +1533,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_002_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_002_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 14650
+        "Price": 1465
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1541,7 +1541,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_003_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_003_F",
         "Zone": "ZONE_HEAD",
-        "Price": 8750
+        "Price": 875
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1549,7 +1549,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_004_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_004_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 11285
+        "Price": 1128
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1557,7 +1557,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_005_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_005_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 9120
+        "Price": 912
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1565,7 +1565,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_006_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_006_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 10670
+        "Price": 1067
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1573,7 +1573,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_007_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_007_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 9660
+        "Price": 966
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1581,7 +1581,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_008_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_008_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 13445
+        "Price": 1344
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1589,7 +1589,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_009_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_009_F",
         "Zone": "ZONE_TORSO",
-        "Price": 14650
+        "Price": 1465
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1597,7 +1597,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_010_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_010_F",
         "Zone": "ZONE_TORSO",
-        "Price": 19050
+        "Price": 1905
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1605,7 +1605,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_011_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_011_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 9785
+        "Price": 978
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1613,7 +1613,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_012_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_012_F",
         "Zone": "ZONE_TORSO",
-        "Price": 15060
+        "Price": 1506
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1621,7 +1621,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_013_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_013_F",
         "Zone": "ZONE_TORSO",
-        "Price": 16115
+        "Price": 1611
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1629,7 +1629,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_014_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_014_F",
         "Zone": "ZONE_TORSO",
-        "Price": 17200
+        "Price": 1720
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1637,7 +1637,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_015_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_015_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 10425
+        "Price": 1042
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1645,7 +1645,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_016_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_016_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 10360
+        "Price": 1036
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1653,7 +1653,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_017_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_017_F",
         "Zone": "ZONE_TORSO",
-        "Price": 8980
+        "Price": 898
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1661,7 +1661,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_018_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_018_F",
         "Zone": "ZONE_TORSO",
-        "Price": 17755
+        "Price": 1775
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1669,7 +1669,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_019_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_019_F",
         "Zone": "ZONE_TORSO",
-        "Price": 18025
+        "Price": 1802
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1677,7 +1677,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_020_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_020_F",
         "Zone": "ZONE_TORSO",
-        "Price": 19875
+        "Price": 1987
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1685,7 +1685,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_021_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_021_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 9460
+        "Price": 946
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1693,7 +1693,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_022_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_022_F",
         "Zone": "ZONE_TORSO",
-        "Price": 10825
+        "Price": 1082
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1701,7 +1701,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_023_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_023_F",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 8880
+        "Price": 888
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1709,7 +1709,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_024_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_024_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 10340
+        "Price": 1034
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1717,7 +1717,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_025_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_025_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 12150
+        "Price": 1215
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1725,7 +1725,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_026_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_026_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 11510
+        "Price": 1151
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1733,7 +1733,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_027_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_027_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 8420
+        "Price": 842
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1741,7 +1741,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_028_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_028_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9960
+        "Price": 996
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1749,7 +1749,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_029_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_029_F",
         "Zone": "ZONE_TORSO",
-        "Price": 14090
+        "Price": 1409
     },
     {
         "Collection": "mpgunrunning_overlays",
@@ -1757,7 +1757,7 @@
         "HashNameMale": "MP_Gunrunning_Tattoo_030_M",
         "HashNameFemale": "MP_Gunrunning_Tattoo_030_F",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 11050
+        "Price": 1105
     },
     {
         "Collection": "mphipster_overlays",
@@ -1765,7 +1765,7 @@
         "HashNameMale": "FM_Hip_M_Tat_000",
         "HashNameFemale": "FM_Hip_F_Tat_000",
         "Zone": "ZONE_TORSO",
-        "Price": 6750
+        "Price": 675
     },
     {
         "Collection": "mphipster_overlays",
@@ -1773,7 +1773,7 @@
         "HashNameMale": "FM_Hip_M_Tat_001",
         "HashNameFemale": "FM_Hip_F_Tat_001",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 2000
+        "Price": 200
     },
     {
         "Collection": "mphipster_overlays",
@@ -1781,7 +1781,7 @@
         "HashNameMale": "FM_Hip_M_Tat_002",
         "HashNameFemale": "FM_Hip_F_Tat_002",
         "Zone": "ZONE_TORSO",
-        "Price": 2900
+        "Price": 290
     },
     {
         "Collection": "mphipster_overlays",
@@ -1789,7 +1789,7 @@
         "HashNameMale": "FM_Hip_M_Tat_003",
         "HashNameFemale": "FM_Hip_F_Tat_003",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 2100
+        "Price": 210
     },
     {
         "Collection": "mphipster_overlays",
@@ -1797,7 +1797,7 @@
         "HashNameMale": "FM_Hip_M_Tat_004",
         "HashNameFemale": "FM_Hip_F_Tat_004",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 2900
+        "Price": 290
     },
     {
         "Collection": "mphipster_overlays",
@@ -1805,7 +1805,7 @@
         "HashNameMale": "FM_Hip_M_Tat_005",
         "HashNameFemale": "FM_Hip_F_Tat_005",
         "Zone": "ZONE_HEAD",
-        "Price": 7450
+        "Price": 745
     },
     {
         "Collection": "mphipster_overlays",
@@ -1813,7 +1813,7 @@
         "HashNameMale": "FM_Hip_M_Tat_006",
         "HashNameFemale": "FM_Hip_F_Tat_006",
         "Zone": "ZONE_TORSO",
-        "Price": 4550
+        "Price": 455
     },
     {
         "Collection": "mphipster_overlays",
@@ -1821,7 +1821,7 @@
         "HashNameMale": "FM_Hip_M_Tat_007",
         "HashNameFemale": "FM_Hip_F_Tat_007",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 6000
+        "Price": 600
     },
     {
         "Collection": "mphipster_overlays",
@@ -1829,7 +1829,7 @@
         "HashNameMale": "FM_Hip_M_Tat_008",
         "HashNameFemale": "FM_Hip_F_Tat_008",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4850
+        "Price": 485
     },
     {
         "Collection": "mphipster_overlays",
@@ -1837,7 +1837,7 @@
         "HashNameMale": "FM_Hip_M_Tat_009",
         "HashNameFemale": "FM_Hip_F_Tat_009",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 4000
+        "Price": 400
     },
     {
         "Collection": "mphipster_overlays",
@@ -1845,7 +1845,7 @@
         "HashNameMale": "FM_Hip_M_Tat_010",
         "HashNameFemale": "FM_Hip_F_Tat_010",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 3150
+        "Price": 315
     },
     {
         "Collection": "mphipster_overlays",
@@ -1853,7 +1853,7 @@
         "HashNameMale": "FM_Hip_M_Tat_011",
         "HashNameFemale": "FM_Hip_F_Tat_011",
         "Zone": "ZONE_TORSO",
-        "Price": 3000
+        "Price": 300
     },
     {
         "Collection": "mphipster_overlays",
@@ -1861,7 +1861,7 @@
         "HashNameMale": "FM_Hip_M_Tat_012",
         "HashNameFemale": "FM_Hip_F_Tat_012",
         "Zone": "ZONE_TORSO",
-        "Price": 6500
+        "Price": 650
     },
     {
         "Collection": "mphipster_overlays",
@@ -1869,7 +1869,7 @@
         "HashNameMale": "FM_Hip_M_Tat_013",
         "HashNameFemale": "FM_Hip_F_Tat_013",
         "Zone": "ZONE_TORSO",
-        "Price": 6950
+        "Price": 695
     },
     {
         "Collection": "mphipster_overlays",
@@ -1877,7 +1877,7 @@
         "HashNameMale": "FM_Hip_M_Tat_014",
         "HashNameFemale": "FM_Hip_F_Tat_014",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4300
+        "Price": 430
     },
     {
         "Collection": "mphipster_overlays",
@@ -1885,7 +1885,7 @@
         "HashNameMale": "FM_Hip_M_Tat_015",
         "HashNameFemale": "FM_Hip_F_Tat_015",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 3400
+        "Price": 340
     },
     {
         "Collection": "mphipster_overlays",
@@ -1893,7 +1893,7 @@
         "HashNameMale": "FM_Hip_M_Tat_016",
         "HashNameFemale": "FM_Hip_F_Tat_016",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 3700
+        "Price": 370
     },
     {
         "Collection": "mphipster_overlays",
@@ -1901,7 +1901,7 @@
         "HashNameMale": "FM_Hip_M_Tat_017",
         "HashNameFemale": "FM_Hip_F_Tat_017",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 2650
+        "Price": 265
     },
     {
         "Collection": "mphipster_overlays",
@@ -1909,7 +1909,7 @@
         "HashNameMale": "FM_Hip_M_Tat_018",
         "HashNameFemale": "FM_Hip_F_Tat_018",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 1800
+        "Price": 180
     },
     {
         "Collection": "mphipster_overlays",
@@ -1917,7 +1917,7 @@
         "HashNameMale": "FM_Hip_M_Tat_019",
         "HashNameFemale": "FM_Hip_F_Tat_019",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 3400
+        "Price": 340
     },
     {
         "Collection": "mphipster_overlays",
@@ -1925,7 +1925,7 @@
         "HashNameMale": "FM_Hip_M_Tat_020",
         "HashNameFemale": "FM_Hip_F_Tat_020",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 7350
+        "Price": 735
     },
     {
         "Collection": "mphipster_overlays",
@@ -1933,7 +1933,7 @@
         "HashNameMale": "FM_Hip_M_Tat_021",
         "HashNameFemale": "FM_Hip_F_Tat_021",
         "Zone": "ZONE_HEAD",
-        "Price": 7850
+        "Price": 785
     },
     {
         "Collection": "mphipster_overlays",
@@ -1941,7 +1941,7 @@
         "HashNameMale": "FM_Hip_M_Tat_022",
         "HashNameFemale": "FM_Hip_F_Tat_022",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 2250
+        "Price": 225
     },
     {
         "Collection": "mphipster_overlays",
@@ -1949,7 +1949,7 @@
         "HashNameMale": "FM_Hip_M_Tat_023",
         "HashNameFemale": "FM_Hip_F_Tat_023",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 7000
+        "Price": 700
     },
     {
         "Collection": "mphipster_overlays",
@@ -1957,7 +1957,7 @@
         "HashNameMale": "FM_Hip_M_Tat_024",
         "HashNameFemale": "FM_Hip_F_Tat_024",
         "Zone": "ZONE_TORSO",
-        "Price": 2950
+        "Price": 295
     },
     {
         "Collection": "mphipster_overlays",
@@ -1965,7 +1965,7 @@
         "HashNameMale": "FM_Hip_M_Tat_025",
         "HashNameFemale": "FM_Hip_F_Tat_025",
         "Zone": "ZONE_TORSO",
-        "Price": 3500
+        "Price": 350
     },
     {
         "Collection": "mphipster_overlays",
@@ -1973,7 +1973,7 @@
         "HashNameMale": "FM_Hip_M_Tat_026",
         "HashNameFemale": "FM_Hip_F_Tat_026",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 2400
+        "Price": 240
     },
     {
         "Collection": "mphipster_overlays",
@@ -1981,7 +1981,7 @@
         "HashNameMale": "FM_Hip_M_Tat_027",
         "HashNameFemale": "FM_Hip_F_Tat_027",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 5750
+        "Price": 575
     },
     {
         "Collection": "mphipster_overlays",
@@ -1989,7 +1989,7 @@
         "HashNameMale": "FM_Hip_M_Tat_028",
         "HashNameFemale": "FM_Hip_F_Tat_028",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 4800
+        "Price": 480
     },
     {
         "Collection": "mphipster_overlays",
@@ -1997,7 +1997,7 @@
         "HashNameMale": "FM_Hip_M_Tat_029",
         "HashNameFemale": "FM_Hip_F_Tat_029",
         "Zone": "ZONE_TORSO",
-        "Price": 1850
+        "Price": 185
     },
     {
         "Collection": "mphipster_overlays",
@@ -2005,7 +2005,7 @@
         "HashNameMale": "FM_Hip_M_Tat_030",
         "HashNameFemale": "FM_Hip_F_Tat_030",
         "Zone": "ZONE_TORSO",
-        "Price": 2250
+        "Price": 225
     },
     {
         "Collection": "mphipster_overlays",
@@ -2013,7 +2013,7 @@
         "HashNameMale": "FM_Hip_M_Tat_031",
         "HashNameFemale": "FM_Hip_F_Tat_031",
         "Zone": "ZONE_TORSO",
-        "Price": 4950
+        "Price": 495
     },
     {
         "Collection": "mphipster_overlays",
@@ -2021,7 +2021,7 @@
         "HashNameMale": "FM_Hip_M_Tat_032",
         "HashNameFemale": "FM_Hip_F_Tat_032",
         "Zone": "ZONE_TORSO",
-        "Price": 4350
+        "Price": 435
     },
     {
         "Collection": "mphipster_overlays",
@@ -2029,7 +2029,7 @@
         "HashNameMale": "FM_Hip_M_Tat_033",
         "HashNameFemale": "FM_Hip_F_Tat_033",
         "Zone": "ZONE_TORSO",
-        "Price": 6950
+        "Price": 695
     },
     {
         "Collection": "mphipster_overlays",
@@ -2037,7 +2037,7 @@
         "HashNameMale": "FM_Hip_M_Tat_034",
         "HashNameFemale": "FM_Hip_F_Tat_034",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 9500
+        "Price": 950
     },
     {
         "Collection": "mphipster_overlays",
@@ -2045,7 +2045,7 @@
         "HashNameMale": "FM_Hip_M_Tat_035",
         "HashNameFemale": "FM_Hip_F_Tat_035",
         "Zone": "ZONE_TORSO",
-        "Price": 7500
+        "Price": 750
     },
     {
         "Collection": "mphipster_overlays",
@@ -2053,7 +2053,7 @@
         "HashNameMale": "FM_Hip_M_Tat_036",
         "HashNameFemale": "FM_Hip_F_Tat_036",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 5150
+        "Price": 515
     },
     {
         "Collection": "mphipster_overlays",
@@ -2061,7 +2061,7 @@
         "HashNameMale": "FM_Hip_M_Tat_037",
         "HashNameFemale": "FM_Hip_F_Tat_037",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 3750
+        "Price": 375
     },
     {
         "Collection": "mphipster_overlays",
@@ -2069,7 +2069,7 @@
         "HashNameMale": "FM_Hip_M_Tat_038",
         "HashNameFemale": "FM_Hip_F_Tat_038",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 3500
+        "Price": 350
     },
     {
         "Collection": "mphipster_overlays",
@@ -2077,7 +2077,7 @@
         "HashNameMale": "FM_Hip_M_Tat_039",
         "HashNameFemale": "FM_Hip_F_Tat_039",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 10000
+        "Price": 1000
     },
     {
         "Collection": "mphipster_overlays",
@@ -2085,7 +2085,7 @@
         "HashNameMale": "FM_Hip_M_Tat_040",
         "HashNameFemale": "FM_Hip_F_Tat_040",
         "Zone": "ZONE_LEFT_LEG",
-        "Price": 2950
+        "Price": 295
     },
     {
         "Collection": "mphipster_overlays",
@@ -2093,7 +2093,7 @@
         "HashNameMale": "FM_Hip_M_Tat_041",
         "HashNameFemale": "FM_Hip_F_Tat_041",
         "Zone": "ZONE_TORSO",
-        "Price": 2575
+        "Price": 257
     },
     {
         "Collection": "mphipster_overlays",
@@ -2101,7 +2101,7 @@
         "HashNameMale": "FM_Hip_M_Tat_042",
         "HashNameFemale": "FM_Hip_F_Tat_042",
         "Zone": "ZONE_RIGHT_LEG",
-        "Price": 4300
+        "Price": 430
     },
     {
         "Collection": "mphipster_overlays",
@@ -2109,7 +2109,7 @@
         "HashNameMale": "FM_Hip_M_Tat_043",
         "HashNameFemale": "FM_Hip_F_Tat_043",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 5500
+        "Price": 550
     },
     {
         "Collection": "mphipster_overlays",
@@ -2117,7 +2117,7 @@
         "HashNameMale": "FM_Hip_M_Tat_044",
         "HashNameFemale": "FM_Hip_F_Tat_044",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 5500
+        "Price": 550
     },
     {
         "Collection": "mphipster_overlays",
@@ -2125,7 +2125,7 @@
         "HashNameMale": "FM_Hip_M_Tat_045",
         "HashNameFemale": "FM_Hip_F_Tat_045",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 4000
+        "Price": 400
     },
     {
         "Collection": "mphipster_overlays",
@@ -2133,7 +2133,7 @@
         "HashNameMale": "FM_Hip_M_Tat_046",
         "HashNameFemale": "FM_Hip_F_Tat_046",
         "Zone": "ZONE_TORSO",
-        "Price": 3750
+        "Price": 375
     },
     {
         "Collection": "mphipster_overlays",
@@ -2141,7 +2141,7 @@
         "HashNameMale": "FM_Hip_M_Tat_047",
         "HashNameFemale": "FM_Hip_F_Tat_047",
         "Zone": "ZONE_TORSO",
-        "Price": 1900
+        "Price": 190
     },
     {
         "Collection": "mphipster_overlays",
@@ -2149,7 +2149,7 @@
         "HashNameMale": "FM_Hip_M_Tat_048",
         "HashNameFemale": "FM_Hip_F_Tat_048",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 7850
+        "Price": 785
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2157,7 +2157,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_000_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_000_F",
         "Zone": "ZONE_TORSO",
-        "Price": 13780
+        "Price": 1378
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2165,7 +2165,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_001_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_001_F",
         "Zone": "ZONE_TORSO",
-        "Price": 12900
+        "Price": 1290
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2173,7 +2173,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_002_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_002_F",
         "Zone": "ZONE_TORSO",
-        "Price": 12120
+        "Price": 1212
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2181,7 +2181,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_003_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_003_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 17200
+        "Price": 1720
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2189,7 +2189,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_004_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_004_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 16350
+        "Price": 1635
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2197,7 +2197,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_005_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_005_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 18615
+        "Price": 1861
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2205,7 +2205,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_006_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_006_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 15720
+        "Price": 1572
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2213,7 +2213,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_007_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_007_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 16685
+        "Price": 1668
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2221,7 +2221,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_008_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_008_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 19900
+        "Price": 1990
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2229,7 +2229,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_009_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_009_F",
         "Zone": "ZONE_TORSO",
-        "Price": 16500
+        "Price": 1650
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2237,7 +2237,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_010_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_010_F",
         "Zone": "ZONE_TORSO",
-        "Price": 14235
+        "Price": 1423
     },
     {
         "Collection": "mpimportexport_overlays",
@@ -2245,7 +2245,7 @@
         "HashNameMale": "MP_MP_ImportExport_Tat_011_M",
         "HashNameFemale": "MP_MP_ImportExport_Tat_011_F",
         "Zone": "ZONE_TORSO",
-        "Price": 15985
+        "Price": 1598
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2253,7 +2253,7 @@
         "HashNameMale": "MP_LR_Tat_000_M",
         "HashNameFemale": "MP_LR_Tat_000_F",
         "Zone": "ZONE_TORSO",
-        "Price": 19000
+        "Price": 1900
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2261,7 +2261,7 @@
         "HashNameMale": "MP_LR_Tat_003_M",
         "HashNameFemale": "MP_LR_Tat_003_F",
         "Zone": "ZONE_RIGHT_ARM",
-        "Price": 5950
+        "Price": 595
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2269,7 +2269,7 @@
         "HashNameMale": "MP_LR_Tat_006_M",
         "HashNameFemale": "MP_LR_Tat_006_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 7450
+        "Price": 745
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2277,7 +2277,7 @@
         "HashNameMale": "MP_LR_Tat_008_M",
         "HashNameFemale": "MP_LR_Tat_008_F",
         "Zone": "ZONE_TORSO",
-        "Price": 18750
+        "Price": 1875
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2285,7 +2285,7 @@
         "HashNameMale": "MP_LR_Tat_011_M",
         "HashNameFemale": "MP_LR_Tat_011_F",
         "Zone": "ZONE_TORSO",
-        "Price": 8000
+        "Price": 800
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2293,7 +2293,7 @@
         "HashNameMale": "MP_LR_Tat_012_M",
         "HashNameFemale": "MP_LR_Tat_012_F",
         "Zone": "ZONE_TORSO",
-        "Price": 7650
+        "Price": 765
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2301,7 +2301,7 @@
         "HashNameMale": "MP_LR_Tat_016_M",
         "HashNameFemale": "MP_LR_Tat_016_F",
         "Zone": "ZONE_TORSO",
-        "Price": 6400
+        "Price": 640
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2309,7 +2309,7 @@
         "HashNameMale": "MP_LR_Tat_018_M",
         "HashNameFemale": "MP_LR_Tat_018_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 11000
+        "Price": 1100
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2317,7 +2317,7 @@
         "HashNameMale": "MP_LR_Tat_019_M",
         "HashNameFemale": "MP_LR_Tat_019_F",
         "Zone": "ZONE_TORSO",
-        "Price": 9750
+        "Price": 975
     },
     {
         "Collection": "mplowrider2_overlays",
@@ -2325,7 +2325,7 @@
         "HashNameMale": "MP_LR_Tat_022_M",
         "HashNameFemale": "MP_LR_Tat_022_F",
         "Zone": "ZONE_LEFT_ARM",
-        "Price": 7350
+        "Price": 735
     },
     {
         "Collection": "mplowrider2_overlays",
